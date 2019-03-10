@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="ChelsiApp">
+      <div className="ChelsiVersion2">
         <header className="ChelsiHeader">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
